@@ -142,14 +142,14 @@ $(document).on('click', '.mode', function (){
 });
 
 // ===== Для телефонии ===== \\
-$(document).ready(function() {
-    $(".telephony-popup").click(function() {
-        $(".bingc-passive").show();
-        // $(".bingc-passive-content").show();
-        // $(".bingc-we-will-call-you bingc-offline-form").show();
-
-
-        // console.log('Hello');
-    });
-});
+// $(document).ready(function() {
+//     $(".telephony-popup").click(function() {
+//         $(".bingc-passive").show();
+//         // $(".bingc-passive-content").show();
+//         // $(".bingc-we-will-call-you bingc-offline-form").show();
+//
+//
+//         // console.log('Hello');
+//     });
+// });
 
